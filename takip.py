@@ -69,13 +69,13 @@ while True:
                 elif graph_choice == "2":
                     break  
                 elif graph_choice == "3":
-                    print("Program kapatılıyor. Hoşçakalın kaptan ⚓")
+                    print("Program kapatılıyor. Hoşçakalın")
                     exit()
                 else:
                     print("Geçersiz seçim! Lütfen 1, 2 veya 3 girin.")
             break
         elif next_action == "3":
-            print("Program kapatılıyor. Hoşçakalın kaptan ⚓")
+            print("Program kapatılıyor. Hoşçakalın")
             exit()
         else:
             print("Geçersiz seçim! Lütfen 1, 2 veya 3 girin.")
