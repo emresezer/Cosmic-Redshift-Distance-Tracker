@@ -98,6 +98,6 @@ where:
   <li>Cosmology Reference: Hogg, D. W. (1999). Distance measures in cosmology. arXiv:astro-ph/9905116</li>
 </ul>
 
-<hr>
 
-<h2 align="center">© DUTlab | <a href="https://dutlab.com" target="_blank">www.dutlab.com</a></h2>
+
+
